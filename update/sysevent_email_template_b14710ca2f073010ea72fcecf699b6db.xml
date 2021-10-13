@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>incident</collection>
+        <email_layout display_value="MyImageDemo">0124980a2f073010ea72fcecf699b6fd</email_layout>
+        <message/>
+        <message_html><![CDATA[<p>${notification-body}</p>
+<p><img style="align: baseline;" title="" src="sys_attachment.do?sys_id=1fb7188a2f073010ea72fcecf699b628" alt="" width="100" height="100" align="baseline" border="" hspace="" vspace="" /></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>MyDemoTemplate</name>
+        <sms_alternate/>
+        <subject>subject in template</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-08 09:33:28</sys_created_on>
+        <sys_id>b14710ca2f073010ea72fcecf699b6db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyDemoTemplate</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_email_template_b14710ca2f073010ea72fcecf699b6db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-08 09:33:28</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
